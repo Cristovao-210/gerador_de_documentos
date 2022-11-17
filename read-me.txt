@@ -1,0 +1,5 @@
+Ambiente virtual:
+
+Criar: python -m venv nome_ambiente  
+
+Ativar: nome_ambiente\Scripts\Activate
