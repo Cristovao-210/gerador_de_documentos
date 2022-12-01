@@ -8,6 +8,7 @@ dados_ato = {}
 lista_de_cargos = ["","Professor do Magistério Superior", "Assistente em Administração","Outro"]
 hoje = dt.date.today() # data do dia para pegar o ano
 ato_gerado = []
+# testando git
 
 # Título do formulário
 nome_documento = "Ato de Vacância"
